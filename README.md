@@ -26,6 +26,13 @@ Weather application for current weather, hourly forecast for 48 hours, Daily for
     - Interceptor
     - Context passing
 
+
+# Gifs
+
+| Dark  | Light  |
+|--------|-----|
+|![Alt text](/lib/assets/images/dark.gif?raw=true "gif 1") | ![Alt text](/lib/assets/images/light.gif?raw=true "gif 2") |
+
 # Screenshot
 
 ## Light Mode
@@ -33,12 +40,14 @@ Weather application for current weather, hourly forecast for 48 hours, Daily for
 |--------|-----|
 |![Alt text](/lib/assets/images/light1.png?raw=true "Screenshot 1") | ![Alt text](/lib/assets/images/light2.png?raw=true "Screenshot 2") |
 ![Alt text](/lib/assets/images/light3.png?raw=true "Screenshot 3") | ![Alt text](/lib/assets/images/light4.png?raw=true "Screenshot 4")  |
+![Alt text](/lib/assets/images/light5.png?raw=true "Screenshot 5")  |
 
 ## Dark Mode
 |   |   |
 |--------|-----|
 |![Alt text](/lib/assets/images/dark1.png?raw=true "Screenshot 1") | ![Alt text](/lib/assets/images/dark2.png?raw=true "Screenshot 2") |
 ![Alt text](/lib/assets/images/dark3.png?raw=true "Screenshot 3") | ![Alt text](/lib/assets/images/dark4.png?raw=true "Screenshot 4")  |
+![Alt text](/lib/assets/images/dark5.png?raw=true "Screenshot 5")  |
 
 
 # iOS Quicker
