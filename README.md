@@ -9,22 +9,74 @@ Weather application for current weather, hourly forecast for 48 hours, Daily for
 - flutter run
 
 # Features
-    - Multi theme
-    - Flutter Bloc
-    - State Management
-    - Data Storage with hydrated bloc
-    - separation of layers
-    - Interface
-    - Repository
-    - Reuseable components/widgets
-    - Utils
-    - Extensions
-    - Routing
-    - Networking
-    - Data Provider
-    - Api Calls
-    - Interceptor
-    - Context passing
+    - Architecture pattern
+        - Bloc 
+            - Cubit
+            - Repository Provider
+            - Multi Bloc Provider
+            - Bloc Provider
+            - Bloc Builder
+            - Bloc Consumer
+            - Bloc Listener
+            - State Management
+        - Context Passing
+            - Bloc/Cubit context passing in navigation
+    - Theme
+        - Multi Theme
+            - Dark
+            - Light
+        - Typography
+    - Storage
+        - Hydrated Bloc
+            - Local Storage with state management
+        - Path Provider
+    - Netwok
+        - Interface
+            - Interface for http methods
+                - Get
+                - Put
+                - Post
+                - Delete
+            - Interface implementation for 'Dio' library
+        - Data Model
+        - Data Provider
+            - Respository
+            - Services/API Call
+        - Parsing
+        - Interceptor
+            - Auth
+            - Token
+        - Singleton Instance of netwrok
+    - Nagivation
+        - Navigation with onGeneratedRoute
+            - Navigation router name
+        - Nagivation service
+            - Singleton context
+            - Methods
+                - Puhs
+                - Push and replace
+                - Push and remove until
+                - Pop
+                - Pop to rooot
+    - Reuseable Widget
+        - Button
+        - TextFiled
+        - Search TextFiled
+        - Listview
+            - Hourly forcast
+            - Daily forcast
+            - Favourite card
+    - Extra
+        - Utils
+            - Enums
+            - Constants
+            - Regexp
+        - Helper
+            - Common function
+        - Extension
+            - Color
+            - Fonts
+            - String
 
 
 # Gifs
