@@ -24,6 +24,8 @@ class SearchCityLoading extends SearchCityState {
 class SearchComplete extends SearchCityState {
   final List<SearchCityModel>? citiesData;
   const SearchComplete(this.citiesData);
+   @override
+   List<Object?> get props => [citiesData];
 }
 
 class SearchError extends SearchCityState {
